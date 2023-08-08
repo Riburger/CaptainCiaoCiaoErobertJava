@@ -4,10 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cbb31d7-7a2a-4ebd-bcba-8a04e0ab13b4" name="Changes" comment="BlackJack Aufgabe gelöst, System.out.printf verwendet, Math.max probiert.">
-      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/NullEffekt_237.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/Zahltag_241.java" afterDir="false" />
+    <list default="true" id="1cbb31d7-7a2a-4ebd-bcba-8a04e0ab13b4" name="Changes" comment="Aufgabe Zahltag zeigt dass ich teilweise aus der Übung bin und zu kompliziert code.">
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/AllesimLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/CollatzFolgeMain_264.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/CollatzFolge_264.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/FakultaetBerechnen_256.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/FalscheVerzweigung_242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/FestellenObZahldurchFakultätGebildetWurde_257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/KleinsteUndGroeßteZahl_258.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/LinePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/LinePrinterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/LiterAngabenUmrechnen_243.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/MathematischesPhänomen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/MultiplikationsTabelle_265.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/RightTriangle_263.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/RotierteSvgRechteckeErzeugen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/SchachbrettAusgeben.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/SummingCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/SvgKreiseRandomFarben_244.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/SvgPerlenkette_252.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/WievieleSternchen_255.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/WimpelimWind_2510.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/ZuWelchemBlockGehoert_245.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/ZZZZZnake.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +67,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zahltag_241">
-    <configuration name="BottlesOfRum_235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kapitel2_ImperativeSprachkonzepte.BottlesOfRum_235" />
+  <component name="RunManager" selected="Application.MultiplikationsTabelle_265">
+    <configuration name="AllesimLot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kapitel2_ImperativeSprachkonzepte.AllesimLot" />
       <module name="CaptainCiaoCiaoErobertJava" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kapitel2_ImperativeSprachkonzepte.CoinMachine" />
+    <configuration name="CollatzFolgeMain_264" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kapitel2_ImperativeSprachkonzepte.CollatzFolgeMain_264" />
       <module name="CaptainCiaoCiaoErobertJava" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EinundZwanzig_236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kapitel2_ImperativeSprachkonzepte.EinundZwanzig_236" />
+    <configuration name="CollatzFolge_264" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kapitel2_ImperativeSprachkonzepte.CollatzFolge_264" />
       <module name="CaptainCiaoCiaoErobertJava" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullEffekt_237" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kapitel2_ImperativeSprachkonzepte.NullEffekt_237" />
+    <configuration name="LinePrinterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kapitel2_ImperativeSprachkonzepte.LinePrinterDemo" />
       <module name="CaptainCiaoCiaoErobertJava" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zahltag_241" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kapitel2_ImperativeSprachkonzepte.Zahltag_241" />
+    <configuration name="MultiplikationsTabelle_265" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kapitel2_ImperativeSprachkonzepte.MultiplikationsTabelle_265" />
       <module name="CaptainCiaoCiaoErobertJava" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zahltag_241" />
-        <item itemvalue="Application.NullEffekt_237" />
-        <item itemvalue="Application.EinundZwanzig_236" />
-        <item itemvalue="Application.BottlesOfRum_235" />
-        <item itemvalue="Application.CoinMachine" />
+        <item itemvalue="Application.MultiplikationsTabelle_265" />
+        <item itemvalue="Application.CollatzFolge_264" />
+        <item itemvalue="Application.CollatzFolgeMain_264" />
+        <item itemvalue="Application.AllesimLot" />
+        <item itemvalue="Application.LinePrinterDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +155,12 @@
       <workItem from="1690375728105" duration="4614000" />
       <workItem from="1690534102516" duration="1992000" />
       <workItem from="1690722850407" duration="3197000" />
-      <workItem from="1691064491372" duration="9806000" />
+      <workItem from="1691064491372" duration="10923000" />
+      <workItem from="1691241789804" duration="4819000" />
+      <workItem from="1691393092375" duration="6498000" />
+      <workItem from="1691419384893" duration="3232000" />
+      <workItem from="1691481868853" duration="1514000" />
+      <workItem from="1691485516974" duration="5424000" />
     </task>
     <task id="LOCAL-00001" summary="Erste Aufgabe SVG Kreis erledigt und Escapezeichen gelernt, auch System.out.printf kennengelernt wobei System.out.printLn und System.out.print bekannt waren.">
       <created>1689585516607</created>
@@ -157,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691073677923</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Aufgabe Zahltag zeigt dass ich teilweise aus der Übung bin und zu kompliziert code.">
+      <created>1691075581043</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691075581043</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,14 +200,15 @@
     <MESSAGE value="Erste Aufgabe SVG Kreis erledigt und Escapezeichen gelernt, auch System.out.printf kennengelernt wobei System.out.printLn und System.out.print bekannt waren." />
     <MESSAGE value="Erneut Aufgaben aus dem Buch erledigt.&#10;Noch kleinere Schwierigkeiten Modulo zu verstehen bzw. richtige Anwendungensmöglichkeiten dafür finden aber es geht voran!" />
     <MESSAGE value="BlackJack Aufgabe gelöst, System.out.printf verwendet, Math.max probiert." />
-    <option name="LAST_COMMIT_MESSAGE" value="BlackJack Aufgabe gelöst, System.out.printf verwendet, Math.max probiert." />
+    <MESSAGE value="Aufgabe Zahltag zeigt dass ich teilweise aus der Übung bin und zu kompliziert code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aufgabe Zahltag zeigt dass ich teilweise aus der Übung bin und zu kompliziert code." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/Zahltag_241.java</url>
-          <line>26</line>
+          <line>43</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>

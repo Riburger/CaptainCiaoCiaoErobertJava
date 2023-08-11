@@ -34,8 +34,8 @@ public class SaltySnook_423 {
         int counter = 1;
         int minOccurences = 4;
         for (int i = 0; i < signs.length - 1; i++) {
-            String currentSign = Objects.requireNonNull(signs[i]);
-            String nextSign = Objects.requireNonNull(signs[i + 1]);
+            String currentSign = Objects.requireNonNull(signs[i]); // Auch ohne Objects.requireNonNull möglich
+            String nextSign = Objects.requireNonNull(signs[i + 1]); // Auch ohne Objects.requireNonNull möglich
             if (currentSign.equals(nextSign)){
                 counter++;
                 if (counter == minOccurences)

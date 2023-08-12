@@ -1,4 +1,4 @@
-System.out.printf eventuell nochmal durchlesen - wenn erledigt entfernen 170723 
+System.out.printf eventuell nochmal durchlesen - wenn erledigt entfernen 170723
 
 Aufgabe 2.5.8
 
@@ -12,7 +12,7 @@ for (int i = 0; i < dimension; i++){
 for (int j = 0; j < dimension; j++)
 System.out.print(polygon.contains(i, j) ? octopus : rainbow);
 System.out.println();
-    }
+}
 
 Projekt Kapitel4_Arrays BinaryBanner nochmal mit Prof Landerer bei gelegenheit besprechen. 288
 Kapitel 4 Arrays ab Mehrdimensionalität mit Landerer oder Gamper besprechen - Manche Dinge unklar 

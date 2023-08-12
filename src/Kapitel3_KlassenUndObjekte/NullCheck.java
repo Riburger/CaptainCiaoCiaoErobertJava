@@ -7,9 +7,9 @@ package Kapitel3_KlassenUndObjekte;
 public class NullCheck {
     public static void main(String[] args) {
         String s = javax.swing.JOptionPane.showInputDialog("Eingabe");
-        if (s != null && ! s.isEmpty()){
+        if (s != null && !s.isEmpty()) {
             System.out.println("Eingabe: " + s);
-        }else
+        } else
             System.out.println("Keine Eingabe oder Abbruch");
     }
 }

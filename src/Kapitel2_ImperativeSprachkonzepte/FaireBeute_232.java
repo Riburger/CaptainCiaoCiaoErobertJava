@@ -10,10 +10,10 @@ import java.util.Scanner;
  * er weniger als die Hälfte, so großzügig ist der Captain). Alle anderen Räuber
  * sollen exakt den gleichen Anteil bekommen. Aber geht das auf?
  * Aufgabe:
- *  Schreibe ein Programm, das die erbeutete Anzahl Flaschen von der Kommandozeile
+ * Schreibe ein Programm, das die erbeutete Anzahl Flaschen von der Kommandozeile
  * einliest und ausgibt, wie viel Captain CiaoCiao davon bekommt.
- *  Gib aus, was für die Crew verbleibt.
- *  Frage nach der Crewgröße, und prüfe, ob die Beute fair und gleich verteilt werden
+ * Gib aus, was für die Crew verbleibt.
+ * Frage nach der Crewgröße, und prüfe, ob die Beute fair und gleich verteilt werden
  * kann, sodass jedes Crewmitglied exakt die gleiche Anzahl Flaschen bekommt. Eine
  * Antwort in der Form true oder false reicht.
  */
@@ -32,8 +32,7 @@ public class FaireBeute_232 {
 
         boolean faireBeute;
 
-        if (beuteFuerCrew % anzahlPiraten > 0)
-        {
+        if (beuteFuerCrew % anzahlPiraten > 0) {
             faireBeute = false;
         } else {
 

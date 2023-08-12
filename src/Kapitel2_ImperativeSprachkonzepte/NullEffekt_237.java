@@ -10,8 +10,8 @@ public class NullEffekt_237 {
         int zero = 0;
         int ten = 10;
         double anotherTen = 10;
-        System.out.println( anotherTen / zero );
-        System.out.println( ten / zero );
+        System.out.println(anotherTen / zero);
+        System.out.println(ten / zero);
 
         //Da durch 0 dividiert wird, wird eine Exception geschmissen, welche zum jetzigen Zeitpunkt unbehandelt ist und daher das Programm abbricht.
     }

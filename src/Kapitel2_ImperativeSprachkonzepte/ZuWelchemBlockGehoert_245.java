@@ -19,14 +19,14 @@ package Kapitel2_ImperativeSprachkonzepte;
  */
 public class ZuWelchemBlockGehoert_245 {
     public static void main(String[] args) {
-        if ( true ) {
-            if ( false ) {
+        if (true) {
+            if (false) {
                 if (3 != 4) {
                     ;
                 } else
                     System.out.println("Klabautermann");
-            }else
-                System.out.println( "Pumuckl" );
+            } else
+                System.out.println("Pumuckl");
         }
     }
 }

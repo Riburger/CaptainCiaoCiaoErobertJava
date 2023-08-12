@@ -13,7 +13,7 @@ public class RotierteSvgRechteckeErzeugen {
 
         int rotation = 0;
 
-        for (int i = 0; i <= 36; i++){
+        for (int i = 0; i <= 36; i++) {
 
 
             System.out.printf("<svg height=\"200\" width=\"200\"><rect x=\"50\" y=\"50\" width=\"100\" height=\"100\" stroke=\"black\" fill=\"none\"transform=\"rotate(%d 100 100)\" /> %n", rotation);

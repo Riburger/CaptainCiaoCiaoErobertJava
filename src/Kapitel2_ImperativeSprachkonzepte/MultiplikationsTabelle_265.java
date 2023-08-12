@@ -21,7 +21,7 @@ public class MultiplikationsTabelle_265 {
         headerCell("Fire Extinguisher");
         endRow();
 
-        for (int i = 1; i <=10; i++){
+        for (int i = 1; i <= 10; i++) {
             startRow();
             dataCell(i);
             dataCell(BASE_PRICE_FLAMETHROWER * i);
@@ -29,36 +29,35 @@ public class MultiplikationsTabelle_265 {
 
             endRow();
         }
-         endTable();
+        endTable();
 
     }
 
-    private static void startTable()
-    {
+    private static void startTable() {
         System.out.println("<table>");
     }
-    private static void endTable()
-    {
+
+    private static void endTable() {
         System.out.println("</table>");
-    } private static void startRow()
-    {
+    }
+
+    private static void startRow() {
         System.out.print("<tr>");
-    } private static void endRow()
-    {
+    }
+
+    private static void endRow() {
         System.out.println("</tr>");
     }
 
-    private static void headerCell(String value)
-    {
+    private static void headerCell(String value) {
         System.out.print("<th>" + value + "</th>");
     }
-    private static void dataCell( String value )
-    {
+
+    private static void dataCell(String value) {
         System.out.print("<td>" + value + "</td>");
     }
 
-    private static void dataCell( int value )
-    {
+    private static void dataCell(int value) {
         dataCell(Integer.toString(value));
     }
 

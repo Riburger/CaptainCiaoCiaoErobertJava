@@ -21,20 +21,20 @@ public class SvgPerlenkette_252 {
         String farbe;
         double randomFarbe;
 
-        System.out.println( "<svg height=\"100\" width=\"1000\">" );
-        for (int i = 0; i <= 50; i++){
-        randomFarbe= Math.random();
+        System.out.println("<svg height=\"100\" width=\"1000\">");
+        for (int i = 0; i <= 50; i++) {
+            randomFarbe = Math.random();
 
-        if (randomFarbe <= 0.3){
-            farbe = "green";
-        } else if (randomFarbe <= 0.6 && randomFarbe > 0.3) {
-            farbe = "blue";
-        } else {
-            farbe = "orange";
-        }
+            if (randomFarbe <= 0.3) {
+                farbe = "green";
+            } else if (randomFarbe <= 0.6 && randomFarbe > 0.3) {
+                farbe = "blue";
+            } else {
+                farbe = "orange";
+            }
 
-            System.out.printf( "<circle cx=\"%d\" cy=\"20\" r=\"5\" fill=\"%s\" />%n",
-                    20 + (i * 10), farbe );
+            System.out.printf("<circle cx=\"%d\" cy=\"20\" r=\"5\" fill=\"%s\" />%n",
+                    20 + (i * 10), farbe);
         }
         System.out.println("</svg>");
     }

@@ -5,10 +5,10 @@ package Kapitel2_ImperativeSprachkonzepte;
  * In einer früheren Aufgabe hat Captain CiaoCiao einen schwarzen Kreis auf weißem
  * Grund eingefordert. Doch etwas Farbe dürfte es schon sein!
  * Aufgabe:
- *  Lege eine neue Klasse mit einer main(…)-Methode an.
- *  Gib auf der Kommandozeile zufällig, und mit gleicher Wahrscheinlichkeit, red,
+ * Lege eine neue Klasse mit einer main(…)-Methode an.
+ * Gib auf der Kommandozeile zufällig, und mit gleicher Wahrscheinlichkeit, red,
  * green, blue aus.
- *  In SVG kann man bei Kreisen die Farbe mit dem Attribut fill bestimmen, etwa so:
+ * In SVG kann man bei Kreisen die Farbe mit dem Attribut fill bestimmen, etwa so:
  * <circle cx="20" cy="20" r="5" fill="blue" />. Gib dem Kreis eine zufällige Farbe.
  */
 public class SvgKreiseRandomFarben_244 {
@@ -16,7 +16,7 @@ public class SvgKreiseRandomFarben_244 {
         String farbe;
         double randomFarbe = Math.random();
 
-        if (randomFarbe <= 0.3){
+        if (randomFarbe <= 0.3) {
             farbe = "green";
         } else if (randomFarbe <= 0.6 && randomFarbe > 0.3) {
             farbe = "blue";

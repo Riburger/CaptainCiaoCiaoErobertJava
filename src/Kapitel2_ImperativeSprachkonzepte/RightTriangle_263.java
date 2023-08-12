@@ -9,32 +9,32 @@ package Kapitel2_ImperativeSprachkonzepte;
  * und rechtwinklige Dreiecke. Zur Erinnerung: Dreiecke sind rechtwinklig, wenn
  * c2 = a2 + b2 ist.
  * Aufgabe:
- *  Lege eine neue Klasse RightTriangle an, und schreibe eine neue Methode; nutze
+ * Lege eine neue Klasse RightTriangle an, und schreibe eine neue Methode; nutze
  * folgenden Code als Vorlage:
  * class RightTriangle {
  * public static boolean isRightTriangle( double x, double y, double z ) {
  * // Your implementation goes here
  * }
  * }
- *  Die Methode soll drei Seiten eines Dreiecks annehmen und true als Rückgabe liefern,
+ * Die Methode soll drei Seiten eines Dreiecks annehmen und true als Rückgabe liefern,
  * wenn es sich um ein rechtwinkliges Dreieck handelt, andernfalls false.
- *  Bedenke: Jeder Parameter x, y, z kann für die Katheten oder Hypotenuse stehen.
+ * Bedenke: Jeder Parameter x, y, z kann für die Katheten oder Hypotenuse stehen.
  * Beispiel:
- *  isRightTriangle(3, 4, 5) → true
- *  isRightTriangle(5, 4, 3) → true
- *  isRightTriangle(5, 12, 13) → true
- *  isRightTriangle(1, 2, 3) → false
- *  isRightTriangle(1, 1, Math.sqrt(2)) → false
+ * isRightTriangle(3, 4, 5) → true
+ * isRightTriangle(5, 4, 3) → true
+ * isRightTriangle(5, 12, 13) → true
+ * isRightTriangle(1, 2, 3) → false
+ * isRightTriangle(1, 1, Math.sqrt(2)) → false
  */
 public class RightTriangle_263 {
 
-    public static boolean isRightTriangle( double x, double y, double z ) {
+    public static boolean isRightTriangle(double x, double y, double z) {
 
-        if ((x*x) + (y*y) == (z*z)){
+        if ((x * x) + (y * y) == (z * z)) {
             return true;
-        } else if ((x*x) + (z*z) == (y*y)) {
+        } else if ((x * x) + (z * z) == (y * y)) {
             return true;
-        } else if ( (z*z) + (y*y) == (x*x)) {
+        } else if ((z * z) + (y * y) == (x * x)) {
             return true;
         } else {
             return false;

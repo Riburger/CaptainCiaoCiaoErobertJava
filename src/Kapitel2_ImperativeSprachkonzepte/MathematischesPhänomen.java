@@ -7,11 +7,11 @@ package Kapitel2_ImperativeSprachkonzepte;
  * Iterationen ein wichtiges Verfahren, um nach einer ersten Näherung bei jedem zusätzlichen
  * Schritt die Lösung zu verbessern.
  * Aufgabe:
- *  Deklariere eine double-Variable t zwischen 0 (inklusiv) und 10 (exklusiv) mit folgender
+ * Deklariere eine double-Variable t zwischen 0 (inklusiv) und 10 (exklusiv) mit folgender
  * Zeile:
  * double t = Math.random() * 10;
- *  Multipliziere t mit 2, wenn t < 1. Wenn jedoch t >= 1 ist, ziehe 1 ab.
- *  Setze diese Berechnung in eine while-Schleife, die enden soll, wenn t kleiner gleich
+ * Multipliziere t mit 2, wenn t < 1. Wenn jedoch t >= 1 ist, ziehe 1 ab.
+ * Setze diese Berechnung in eine while-Schleife, die enden soll, wenn t kleiner gleich
  * 0 ist.
  * Beispiel:
  * Die Ausgabe könnte sich so entwickeln:
@@ -30,15 +30,14 @@ public class MathematischesPhänomen {
         double t = Math.random() * 10;
         boolean activ = true;
 
-        while (activ){
+        while (activ) {
             System.out.printf("%.9f%n", t);
-            if (t < 1 && t > 0){
-                t *=2;
+            if (t < 1 && t > 0) {
+                t *= 2;
             } else if (t <= 0) {
                 activ = false;
-            } else
-            {
-                t-= 1;
+            } else {
+                t -= 1;
             }
         }
     }

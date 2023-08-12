@@ -54,21 +54,22 @@ public class ZZZZZnake {
                     break;
                 case "r":
                     playerPosition.x = Math.min(9, playerPosition.x + 1);
-                    break;}
+                    break;
+            }
 
-                if ((playerPosition.x < snakePosition.x)) {
-                    snakePosition.x--;
-                } else if (playerPosition.x > snakePosition.x) {
-                    snakePosition.x++;
-                }
+            if ((playerPosition.x < snakePosition.x)) {
+                snakePosition.x--;
+            } else if (playerPosition.x > snakePosition.x) {
+                snakePosition.x++;
+            }
 
-                if (playerPosition.y < snakePosition.y) {
-                    snakePosition.y--;
-                } else if (playerPosition.y > snakePosition.y) {
-                    snakePosition.y++;
-                }
+            if (playerPosition.y < snakePosition.y) {
+                snakePosition.y--;
+            } else if (playerPosition.y > snakePosition.y) {
+                snakePosition.y++;
             }
         }
     }
+}
 
 

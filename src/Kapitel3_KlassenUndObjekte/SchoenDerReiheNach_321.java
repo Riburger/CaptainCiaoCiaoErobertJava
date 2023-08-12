@@ -10,7 +10,7 @@ package Kapitel3_KlassenUndObjekte;
  * wiederum ist rein optional und nur praktisch, denn wenn wir Typen aus anderen Paketen
  * nutzen, wollen wir uns im Allgemeinen Schreibarbeit mit vollqualifizierten
  * Typen sparen und wenig schreiben, dass nur der Typname im Quellcode auftaucht.
- *
+ * <p>
  * Wie lautet die korrekte Reihenfolge der Deklarationen?
  * 1. import-Deklaration(en), package-Deklaration, Typdeklaration(en)
  * 2. import-Deklaration(en), Typdeklaration(en), package-Deklaration

@@ -12,10 +12,10 @@ package Kapitel4_Arrays;
  * um 100 %, von 500 auf 9.000 ebenso, doch definitiv nicht von 2.000 auf 500 und
  * auch nicht von 9.000 auf 9.010.
  * Aufgabe:
- *  Schreibe eine Methode int count5PercentJumps(int[]), die die Anzahl der Umsatzsprünge
+ * Schreibe eine Methode int count5PercentJumps(int[]), die die Anzahl der Umsatzsprünge
  * liefert. Ein Umsatzsprung ist dann gegeben, wenn der Umsatz 5 % über
  * dem des Vortags lag.
- *  Das übergebene Array darf nicht null sein, andernfalls folgt eine Ausnahme.
+ * Das übergebene Array darf nicht null sein, andernfalls folgt eine Ausnahme.
  */
 public class UmsatzSteigerung_422 {
     public static void main(String[] args) {
@@ -42,7 +42,8 @@ public class UmsatzSteigerung_422 {
                 counter++;
             }
         }
-    return counter;}
+        return counter;
+    }
 
 }
 /*      Lösung aus dem Buch - wieder etwas eleganter und effizienter jedoch meine Lösung sollte auch zum Ziel führen.

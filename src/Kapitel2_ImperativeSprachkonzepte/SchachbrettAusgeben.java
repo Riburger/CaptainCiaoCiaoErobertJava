@@ -11,8 +11,8 @@ import java.util.Scanner;
  * Damit sich Captain CiaoCiao auf alle möglichen Spielfeldgrößen vorbereiten kann,
  * soll ein Programm ein Schachbrett auf dem Bildschirm ausgeben.
  * Aufgabe:
- *  Erfrage von der Kommandozeile Höhe und Breite des Spielbretts.
- *  Zeichne das Spielbrett nach den Größenangaben aus den Symbolen # und _.
+ * Erfrage von der Kommandozeile Höhe und Breite des Spielbretts.
+ * Zeichne das Spielbrett nach den Größenangaben aus den Symbolen # und _.
  * Beispiel:
  * Checkerboard width: 10
  * Checkerboard height: 5
@@ -28,10 +28,10 @@ public class SchachbrettAusgeben {
         int width = new Scanner(System.in).nextInt();
         int height = new Scanner(System.in).nextInt();
 
-        for (int i = 1; i <= height; i++){
-            for (int j = 1; j <= width; j++){
+        for (int i = 1; i <= height; i++) {
+            for (int j = 1; j <= width; j++) {
 
-                if (j % 2 == 0){
+                if (j % 2 == 0) {
                     System.out.print("_");
                 } else {
                     System.out.print("#");

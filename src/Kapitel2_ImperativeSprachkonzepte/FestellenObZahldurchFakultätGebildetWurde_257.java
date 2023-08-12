@@ -15,11 +15,11 @@ import java.util.Scanner;
  * Schreibe ein Programm, das eine natürliche Zahl von der Kommandozeile einliest
  * und ausgibt, ob die Zahl eine Fakultät darstellt.
  * Beispiel:
- *  Zahl ist Fakultät:
+ * Zahl ist Fakultät:
  * Enter a number:
  * 362880
  * 362880 = 9!
- *  Zahl ist keine Fakultät:
+ * Zahl ist keine Fakultät:
  * Enter a number:
  * 1000
  * 1000 is not a factorial
@@ -29,18 +29,19 @@ public class FestellenObZahldurchFakultätGebildetWurde_257 {
         System.out.println("Zahl eingeben");
         int n = new Scanner(System.in).nextInt();
 
-        if (n < 1){
+        if (n < 1) {
             System.out.println("Factorials are always > 1!");
         } else {
 
             long number = n;
             long divisor = 2;
 
-            while(number % divisor == 0){
+            while (number % divisor == 0) {
                 number /= divisor;
                 divisor++;
-            } if (number == 1){
-                System.out.printf("%d! = %d!%n",n, divisor - 1);
+            }
+            if (number == 1) {
+                System.out.printf("%d! = %d!%n", n, divisor - 1);
             } else {
                 System.out.printf("%d is not a factorial%n", n);
             }

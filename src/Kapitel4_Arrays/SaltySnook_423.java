@@ -10,10 +10,10 @@ import java.util.Objects;
  * kommt, sondern sich in einem Konvoi von vier Schiffen bewegt. Die Flaggen selbst
  * kennt sie nicht, nur weiß sie, dass alle die gleiche Aufschrift haben.
  * Aufgabe:
- *  Schreibe eine neue Methode isProbablyApproaching(String[] signs), die dann
+ * Schreibe eine neue Methode isProbablyApproaching(String[] signs), die dann
  * true zurückliefert, wenn es im Array vier gleiche Kürzel hintereinander gibt. Bedenke,
  * dass man Strings mit equals(…)vergleicht.
- *  Das übergebene Array darf nicht null sein, und kein Element im Array darf null
+ * Das übergebene Array darf nicht null sein, und kein Element im Array darf null
  * sein.
  * Beispiel:
  * String[] signs1 = { "F", "DO", "MOS", "MOS", "MOS", "MOS", "WES" };
@@ -36,15 +36,16 @@ public class SaltySnook_423 {
         for (int i = 0; i < signs.length - 1; i++) {
             String currentSign = Objects.requireNonNull(signs[i]); // Auch ohne Objects.requireNonNull möglich
             String nextSign = Objects.requireNonNull(signs[i + 1]); // Auch ohne Objects.requireNonNull möglich
-            if (currentSign.equals(nextSign)){
+            if (currentSign.equals(nextSign)) {
                 counter++;
                 if (counter == minOccurences)
-                   return true;
+                    return true;
 
 
-            } else{
+            } else {
                 counter = 1;
             }
         }
-    return false;}
+        return false;
+    }
 }

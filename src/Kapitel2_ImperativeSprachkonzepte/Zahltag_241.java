@@ -5,15 +5,15 @@ package Kapitel2_ImperativeSprachkonzepte;
  * Bonny Brain hat Tort Ellini eine antike Taschenuhr für 1.000 Liretta verkauft. Tort
  * muss nun das Geld bezahlen.
  * Aufgabe:
- *  Schreibe ein Programm, das auf der Kommandozeile mit new java.util.Scanner(
+ * Schreibe ein Programm, das auf der Kommandozeile mit new java.util.Scanner(
  * System.in).nextDouble() den Betrag der Rückzahlung einliest.
- *  Bonny Brain ist immer guter Laune, daher ist sie auch mit 10 % weniger zufrieden.
+ * Bonny Brain ist immer guter Laune, daher ist sie auch mit 10 % weniger zufrieden.
  * Auch fühlt sie sich gebauchpinselt, wenn Tort 20 % mehr gibt. Zahlt Tort allerdings
  * freiwillig über 20 % mehr, hat Bonny Brain den Eindruck, dass etwas nicht stimmt
  * und die Taschenuhr wohl eine wertvolle versteckte Funktion hat oder ein Geheimnis
  * birgt. Überlege, wie man das Programm so aufbaut, dass wenig Codeänderungen
  * nötig sind, wenn die Grenzen sich aus einer Laune heraus verschieben.
- *  Wenn Tort den passenden Betrag beisammenhat, erscheint auf dem Bildschirm
+ * Wenn Tort den passenden Betrag beisammenhat, erscheint auf dem Bildschirm
  * "Good boy!"; bei einem zu niedrigen Betrag oder einem Versuch der Bestechung
  * kommt "You son of a bi***!".
  */
@@ -26,7 +26,7 @@ public class Zahltag_241 {
         double maxPayment = 1000;
         maxPayment += maxPayment * 0.2;
 
-        if (tortsPayment >= minPayment && tortsPayment <= maxPayment){
+        if (tortsPayment >= minPayment && tortsPayment <= maxPayment) {
             System.out.println("Good Boy");
         } else
             System.out.println("You son of a Bitch");

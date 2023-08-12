@@ -4,21 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cbb31d7-7a2a-4ebd-bcba-8a04e0ab13b4" name="Changes" comment="Abschluss Kapitel 2&#10;Komplexe Aufgaben evtl nochmals anschauen - bin aber zum größten Teil zufrieden mit meinem Können.&#10;&#10;Beginn Kapitel 3 im Lernbuch">
-      <change afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/BermudaTriangle_311.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/DasKurzeLebenDerPunkte_331.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/DreieckeAufbauen_332.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/NullCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/SchoenDerReiheNach_321.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/BinaryBanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/SaltySnook_423.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/UmsatzSteigerung_422.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/WindgeschwindigkeitWindrichtung_421.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/productAndSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/test.java" afterDir="false" />
+    <list default="true" id="1cbb31d7-7a2a-4ebd-bcba-8a04e0ab13b4" name="Changes" comment="Kapitel 3 war sehr kurz und ich war in kurzer Zeit damit fertig - glaube dass mein Verständnis dort passt.&#10;&#10;Kapitel 4 im Lernbuch erledigt und begonnen die Aufgaben zu bearbeiten.">
+      <change afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/ArrayUmdrehen_424.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/NaechsteKino_425.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/SueßigkeitenUeberFall_426.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel1/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel1/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel1/SvgCircle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel1/SvgCircle1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel1/TestKapitelEins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel1/TestKapitelEins.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/AllesimLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/AllesimLot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/BottlesOfRum_235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/BottlesOfRum_235.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/CoinMachine_234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/CoinMachine_234.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/CollatzFolge_264.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/CollatzFolge_264.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/EinundZwanzig_236.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/EinundZwanzig_236.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/FaireBeute_232.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/FaireBeute_232.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/FakultaetBerechnen_256.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/FakultaetBerechnen_256.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/FalscheVerzweigung_242.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/FalscheVerzweigung_242.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/FestellenObZahldurchFakultätGebildetWurde_257.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/FestellenObZahldurchFakultätGebildetWurde_257.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/KleinsteUndGroeßteZahl_258.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/KleinsteUndGroeßteZahl_258.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/LinePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/LinePrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/LiterAngabenUmrechnen_243.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/LiterAngabenUmrechnen_243.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/MathematischesPhänomen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/MathematischesPhänomen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/MultiplikationsTabelle_265.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/MultiplikationsTabelle_265.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/NullEffekt_237.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/NullEffekt_237.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/RightTriangle_263.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/RightTriangle_263.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/RotierteSvgRechteckeErzeugen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/RotierteSvgRechteckeErzeugen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/SchachbrettAusgeben.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/SchachbrettAusgeben.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/SummingCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/SummingCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/SvgKreiseRandomFarben_244.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/SvgKreiseRandomFarben_244.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/SvgPerlenkette_252.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/SvgPerlenkette_252.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/WimpelimWind_2510.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/WimpelimWind_2510.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/Zahltag_241.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/Zahltag_241.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/ZuWelchemBlockGehoert_245.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/ZuWelchemBlockGehoert_245.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/ZweiZahlenGleicheZiffern_233.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel2_ImperativeSprachkonzepte/ZweiZahlenGleicheZiffern_233.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/BermudaTriangle_311.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/BermudaTriangle_311.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/DasKurzeLebenDerPunkte_331.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/DasKurzeLebenDerPunkte_331.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/DreieckeAufbauen_332.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/DreieckeAufbauen_332.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/NullCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/NullCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/SchoenDerReiheNach_321.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/SchoenDerReiheNach_321.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/ZZZZZnake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/ZZZZZnake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel3_KlassenUndObjekte/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel4_Arrays/BinaryBanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/BinaryBanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel4_Arrays/SaltySnook_423.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/SaltySnook_423.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel4_Arrays/UmsatzSteigerung_422.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/UmsatzSteigerung_422.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel4_Arrays/WindgeschwindigkeitWindrichtung_421.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/WindgeschwindigkeitWindrichtung_421.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kapitel4_Arrays/productAndSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kapitel4_Arrays/productAndSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,9 +90,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SaltySnook_423">
-    <configuration name="BinaryBanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kapitel4_Arrays.BinaryBanner" />
+  <component name="RunManager" selected="Application.SueßigkeitenUeberFall_426">
+    <configuration name="ArrayUmdrehen_424" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kapitel4_Arrays.ArrayUmdrehen_424" />
       <module name="CaptainCiaoCiaoErobertJava" />
       <extension name="coverage">
         <pattern>
@@ -74,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kapitel3_KlassenUndObjekte.NullCheck" />
+    <configuration name="NaechsteKino_425" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kapitel4_Arrays.NaechsteKino_425" />
       <module name="CaptainCiaoCiaoErobertJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kapitel3_KlassenUndObjekte.*" />
+          <option name="PATTERN" value="Kapitel4_Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="productAndSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kapitel4_Arrays.productAndSum" />
+    <configuration name="SueßigkeitenUeberFall_426" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kapitel4_Arrays.SueßigkeitenUeberFall_426" />
       <module name="CaptainCiaoCiaoErobertJava" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SueßigkeitenUeberFall_426" />
+        <item itemvalue="Application.NaechsteKino_425" />
+        <item itemvalue="Application.ArrayUmdrehen_424" />
         <item itemvalue="Application.SaltySnook_423" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.BinaryBanner" />
-        <item itemvalue="Application.productAndSum" />
-        <item itemvalue="Application.NullCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +186,7 @@
       <workItem from="1691485516974" duration="8296000" />
       <workItem from="1691570727793" duration="2287000" />
       <workItem from="1691573075600" duration="8400000" />
-      <workItem from="1691742948890" duration="8766000" />
+      <workItem from="1691742948890" duration="15474000" />
     </task>
     <task id="LOCAL-00001" summary="Erste Aufgabe SVG Kreis erledigt und Escapezeichen gelernt, auch System.out.printf kennengelernt wobei System.out.printLn und System.out.print bekannt waren.">
       <created>1689585516607</created>
@@ -193,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691493571869</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Kapitel 3 war sehr kurz und ich war in kurzer Zeit damit fertig - glaube dass mein Verständnis dort passt.&#10;&#10;Kapitel 4 im Lernbuch erledigt und begonnen die Aufgaben zu bearbeiten.">
+      <created>1691761649717</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691761649717</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Kapitel 3 war sehr kurz und ich war in kurzer Zeit damit fertig - glaube dass mein Verständnis dort passt.&#10;&#10;Kapitel 4 im Lernbuch erledigt und begonnen die Aufgaben zu bearbeiten.">
+      <created>1691761747494</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691761747494</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +249,8 @@
     <MESSAGE value="BlackJack Aufgabe gelöst, System.out.printf verwendet, Math.max probiert." />
     <MESSAGE value="Aufgabe Zahltag zeigt dass ich teilweise aus der Übung bin und zu kompliziert code." />
     <MESSAGE value="Abschluss Kapitel 2&#10;Komplexe Aufgaben evtl nochmals anschauen - bin aber zum größten Teil zufrieden mit meinem Können.&#10;&#10;Beginn Kapitel 3 im Lernbuch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abschluss Kapitel 2&#10;Komplexe Aufgaben evtl nochmals anschauen - bin aber zum größten Teil zufrieden mit meinem Können.&#10;&#10;Beginn Kapitel 3 im Lernbuch" />
+    <MESSAGE value="Kapitel 3 war sehr kurz und ich war in kurzer Zeit damit fertig - glaube dass mein Verständnis dort passt.&#10;&#10;Kapitel 4 im Lernbuch erledigt und begonnen die Aufgaben zu bearbeiten." />
+    <option name="LAST_COMMIT_MESSAGE" value="Kapitel 3 war sehr kurz und ich war in kurzer Zeit damit fertig - glaube dass mein Verständnis dort passt.&#10;&#10;Kapitel 4 im Lernbuch erledigt und begonnen die Aufgaben zu bearbeiten." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
